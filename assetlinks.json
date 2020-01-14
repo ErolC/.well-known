@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.erolc.applinkexample",
+    "sha256_cert_fingerprints":
+    ["C8:D2:23:77:9E:46:02:F0:F6:19:27:2B:D3:15:58:3B:79:DD:48:A8:4B:35:A8:24:18:23:9D:CF:CC:52:89:47"]
+  }
+}]
